@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning more about Data Science areas and studying Python and SQL 
 - 🤓 I love to learn new technologies and I'm fascinated by mathematics and logic.
 - 🎓 Graduating in Computer Engineering from Faculdade Engenheiro Salvador Arena (FESA)
-- ⚡ Fun fact: I'm currently studying German by myself for 9 months
 - 🌱 Enthusiastic about learning new program languages and technologies.
 
 - 💻 Back-End:   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
